@@ -38,4 +38,39 @@ const destinations = [
     price: 4.29,
     img: "https://www.kroger.com/product/images/large/front/0002529300122",
   },
+  {
+    name: "Unsweetened Coconut Milk",
+    price: 4.29,
+    img: "https://target.scene7.com/is/image/Target/GUEST_013bec28-c3c9-4f9a-bea7-a8b43d9d2d74?wid=488&hei=488&fmt=pjpeg",
+  },
+  {
+    name: "Unsweetened Almond Milk",
+    price: 2.39,
+    img: "https://target.scene7.com/is/image/Target/GUEST_69f9584f-8f6d-4af9-a678-8ab752f691f6?wid=488&hei=488&fmt=pjpeg",
+  },
+  {
+    name: "Original Almond Milk",
+    price: 2.99,
+    img: "https://italco.com/wp-content/uploads/2020/01/93ALMMLK.jpg",
+  },
+  {
+    name: "Silk Protein Milk",
+    price: 3.98,
+    img: "https://i5.walmartimages.com/seo/Silk-Protein-Original-Pea-Almond-Cashew-Milk-Half-Gallon_dfeeac93-1813-47e2-ad0b-88017d228e46.07bbc0d9880bb40a7fd9a7850dd3c021.jpeg",
+  },
+  {
+    name: "Oat Milk",
+    price: 4.29,
+    img: "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSwNoV5VH4NpDVtFYjXRlDqaL7vp3CywrDn0fjcJ6BAMos-NZzg3gTIbh3uf-m5dqrYYn7veYFkHZKlMUFkPwcUVks4Ps3k8paVSf28lmylV1LIPpxv_XyG",
+  },
+  {
+    name: "Rice Milk",
+    price: 4.99,
+    img: "https://target.scene7.com/is/image/Target/GUEST_3c79e695-ec5e-417c-bc17-b0d1e7d38423?wid=488&hei=488&fmt=pjpeg"
+  },
+  {
+    name: "Rice Milk",
+    price: 4.99,
+    img: "https://target.scene7.com/is/image/Target/GUEST_3c79e695-ec5e-417c-bc17-b0d1e7d38423?wid=488&hei=488&fmt=pjpeg"
+  },
 ]
