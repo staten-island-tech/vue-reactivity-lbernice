@@ -108,7 +108,18 @@ const destinations = [
     price: 5.23,
     img: "https://i5.walmartimages.com/asr/df1d6c29-246d-417e-be0c-04e380939d95_1.bf59e9a558a82e5041f1e9627cc4d8bb.png"
   },
+  {
+    name: "Chocolate Milk",
+    price: 1.80,
+    img: "https://i5.walmartimages.com/seo/Great-Value-1-Low-Fat-Chocolate-Milk-Half-Gallon-64-fl-oz_60a8e4d7-ea91-4de6-a815-6f302a80be10.0334a38e315e83d004c0d937063d22d1.jpeg"
+  },
+  {
+    name: "Strawberry Milk",
+    price: 2.57,
+    img: "https://www.prairiefarms.com/wp-content/uploads/product/23986/072730262556.png"
+  },
 ]
+
 </script>
 
 <style scoped>
