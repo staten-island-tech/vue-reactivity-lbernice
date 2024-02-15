@@ -69,9 +69,44 @@ const destinations = [
     img: "https://target.scene7.com/is/image/Target/GUEST_3c79e695-ec5e-417c-bc17-b0d1e7d38423?wid=488&hei=488&fmt=pjpeg"
   },
   {
-    name: "Rice Milk",
+    name: "Flax Milk",
     price: 4.99,
-    img: "https://target.scene7.com/is/image/Target/GUEST_3c79e695-ec5e-417c-bc17-b0d1e7d38423?wid=488&hei=488&fmt=pjpeg"
+    img: "https://www.gosupps.com/media/catalog/product/6/1/61ojOiRksTL_2.jpg"
+  },
+  {
+    name: "Walnut Milk",
+    price: 5.99,
+    img: "https://cdn.naturamarket.ca/catalog/product/cache/d4b916af0486966841056846415bf5a8/e/l/elmhurst_walnut_us_front.jpg"
+  },
+  {
+    name: "Hemp Milk",
+    price: 5.80,
+    img: "https://i5.walmartimages.com/seo/Pacific-Natural-Foods-Hemp-Vanilla-Plant-Based-Milk-32-Fl-Oz-Pack-Of-12_7774c014-d6cc-4d1d-a726-73e902b11a6e.4eb6e77308f4507a6d57dc390726e0df.jpeg"
+  },
+  {
+    name: "Macadamia Milk",
+    price: 3.69,
+    img: "https://target.scene7.com/is/image/Target/GUEST_2b37388c-6811-410f-974a-e9ea8af2f531?wid=488&hei=488&fmt=pjpeg"
+  },
+  {
+    name: "Hazelnut Milk",
+    price: 6.29,
+    img: "https://elmhurst1925.com/cdn/shop/products/elm_ecomm_us_hazl_32oz_carton_R3_Front_530x@2x.jpg?v=1648146152"
+  },
+  {
+    name: "Plant-Based(Pea) Milk",
+    price: 5.29,
+    img: "https://www.ripplefoods.com/img/bottle3.png?ver=113"
+  },
+  {
+    name: "Pistachio Milk",
+    price: 9.59,
+    img: "https://m.media-amazon.com/images/S/assets.wholefoodsmarket.com/PIE/product/606b4dd42b575653f14495f0_859918004279-main.jpg"
+  },
+  {
+    name: "Goat Milk",
+    price: 5.23,
+    img: "https://i5.walmartimages.com/asr/df1d6c29-246d-417e-be0c-04e380939d95_1.bf59e9a558a82e5041f1e9627cc4d8bb.png"
   },
 ]
 </script>
