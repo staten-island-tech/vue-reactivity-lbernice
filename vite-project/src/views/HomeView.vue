@@ -74,3 +74,8 @@ const destinations = [
     img: "https://target.scene7.com/is/image/Target/GUEST_3c79e695-ec5e-417c-bc17-b0d1e7d38423?wid=488&hei=488&fmt=pjpeg"
   },
 ]
+</script>
+
+<style scoped>
+
+</style>
