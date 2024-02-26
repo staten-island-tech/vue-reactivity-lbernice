@@ -223,7 +223,7 @@ methods: {
   height: auto;
   color: #000000;
   width: 30vw;
-  margin-left: 7rem;
+  margin-left: 6rem;
   font-size: 1.5rem;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
