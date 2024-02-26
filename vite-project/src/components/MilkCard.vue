@@ -46,7 +46,7 @@ export default {
   display: flex;
   flex-direction: column;
   margin-left: 20px;
-  width: 18vw;
+  width: 17vw;
 }
 .shopcart {
   margin-bottom: 20px;
